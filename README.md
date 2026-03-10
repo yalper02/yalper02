@@ -6,5 +6,5 @@ Adı-Soyadı: Yiğit Alper Ayhan
 
 Bilgi: Bu profil ödev amaçlı hazırlandı.
 
-https://translate.google.com/?sl=en&tl=tr&op=translate
+
 
